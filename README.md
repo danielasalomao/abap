@@ -58,13 +58,13 @@
 (-) – subtração.<br>
 (*) – multiplicação.<br>
 (/) – divisão.<br>
-DIV – divisão inteira.<br>
-MOD – Resto da divisão inteira.<br>
-** – Potenciação.<br>
+DIV – quociente da divisão inteira.<br>
+MOD – resto da divisão inteira.<br>
+** – potenciação.<br>
 
 Ao usar expressões matemáticas, os operadores +, -, *, **, e /, bem como abertura e fechamento de parênteses, são interpretados como palavras ABAP e devem ser precedidos e seguidos por espaços em branco.<br>
 
-Em operações de divisão, o divisor não pode ser zero se o dividendo não é zero. Com a divisão inteira, você usa os operadores DIV ou MOD em vez de /. DIV calcula o quociente inteiro, MOD calcula o resto da divisão.<br>
+Em operações de divisão, o divisor não pode ser zero se o dividendo não é zero.<br>
 
 
 ##### Fontes
