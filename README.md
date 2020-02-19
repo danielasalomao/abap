@@ -2,7 +2,7 @@
 
 ## Estruturas de condições e Loops SAP
 
-### IF: 
+#### IF: 
 
 ```abap
 
@@ -17,7 +17,7 @@
 
 &-------------------------------------------------&
 
-### DO:
+#### DO:
 ```abap
     DO 5 TIMES.
         comportamento desejado
@@ -25,7 +25,7 @@
 ```
 &-------------------------------------------------&
 
-### WHILE:
+#### WHILE:
 ```abap
     WHILE l_int < 5.
          comportamento desejado
@@ -33,7 +33,7 @@
 ```
 &-------------------------------------------------&
 
-### LOOP:
+#### LOOP:
 
     No SAP costumamos trabalhar com tabelas em tempo de execução (Tabelas Internas) e linhas da tabela (Work Area).
     Para conseguir os dados da tabela nós usamos o LOOP AT.
@@ -54,19 +54,21 @@
 
 ## Operadores Aritméticos
 
-(+) – adição.
-(-) – subtração.
-(*) – multiplicação.
-(/) – divisão.
-DIV – divisão inteira.
-MOD – Resto da divisão inteira.
-** – Potenciação.
+(+) – adição.<br>
+(-) – subtração.<br>
+(*) – multiplicação.<br>
+(/) – divisão.<br>
+DIV – divisão inteira.<br>
+MOD – Resto da divisão inteira.<br>
+** – Potenciação.<br>
 
-Ao usar expressões matemáticas, os operadores +, -, *, **, e /, bem como abertura e fechamento de parênteses, são interpretados como palavras ABAP e devem ser precedidos e seguidos por espaços em branco.
+Ao usar expressões matemáticas, os operadores +, -, *, **, e /, bem como abertura e fechamento de parênteses, são interpretados como palavras ABAP e devem ser precedidos e seguidos por espaços em branco.<br>
 
-Em operações de divisão, o divisor não pode ser zero se o dividendo não é zero. Com a divisão inteira, você usa os operadores DIV ou MOD em vez de /. DIV calcula o quociente inteiro, MOD calcula o resto da divisão.
+Em operações de divisão, o divisor não pode ser zero se o dividendo não é zero. Com a divisão inteira, você usa os operadores DIV ou MOD em vez de /. DIV calcula o quociente inteiro, MOD calcula o resto da divisão.<br>
 
 
 ##### Fontes
 
 http://descomplicaabap.blogspot.com/2015/11/estruturas-de-condicoes-e-loops-abap.html
+
+https://desenvolvimentoaberto.org/2014/02/15/looping-while-e-expressoes-aritmeticas-abap/
