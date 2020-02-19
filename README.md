@@ -4,6 +4,8 @@
 
 ### IF:
 
+&-------------------------------------------------&
+
    IF time < '120000'.<br>
       comportamento desejado<br>
    ELSEIF time > '120000' AND<br>
