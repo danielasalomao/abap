@@ -34,7 +34,7 @@
 
 ### LOOP:
 
-    No SAP costumamos trabalhar com tabelas em tempo de execução (Tabelas Internas) e linhas ta     tabela (Work Area).
+    No SAP costumamos trabalhar com tabelas em tempo de execução (Tabelas Internas) e linhas da tabela (Work Area).
     Para conseguir os dados da tabela nós usamos o LOOP AT.
 
     it_e070    -> Tabela interna
