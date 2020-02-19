@@ -12,6 +12,8 @@ x –  byte seqüêncial de até 65k bytes<BR>
 d –  Data 8 caracteres de formato AAAAMMDD<BR>
 t –  tempo 6 caracteres de HHMMSS<BR>
 p  – packed number preciso ou número flutuante de até 16 bytes<BR>
+   
+https://github.com/danielasalomao/abap/blob/master/data-types.jpg
 
 ---
 ## Estruturas de condições e Loops SAP
