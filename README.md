@@ -116,6 +116,6 @@ https://desenvolvimentoaberto.org/2014/02/15/looping-while-e-expressoes-aritmeti
 
 ##### Emoji do GitHub
 
-[Site](https://www.webfx.com/tools/emoji-cheat-sheet/)
+[EMOJI CHEAT SHEET](https://www.webfx.com/tools/emoji-cheat-sheet/)
 
-[Site]https://github.com/scotch-io/All-Github-Emoji-Icons
+[All-Github-Emoji-Icons](https://github.com/scotch-io/All-Github-Emoji-Icons)
