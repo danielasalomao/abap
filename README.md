@@ -5,11 +5,11 @@
 ### IF:
 
    IF time < '120000'.<br>
-      comportamento desejado<br>
+    comportamento desejado<br>
    ELSEIF time > '120000'.<br>
-      comportamento desejado<br>
+    comportamento desejado<br>
    ELSE.<br>
-      comportamento desejado<br>
+    comportamento desejado<br>
    ENDIF. <br>
 
 &-------------------------------------------------&
