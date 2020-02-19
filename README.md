@@ -34,13 +34,13 @@
 &-------------------------------------------------&
 
 ### LOOP:
-```abap
+
     No SAP costumamos trabalhar com tabelas em tempo de execução (Tabelas Internas) e linhas da tabela (Work Area).
     Para conseguir os dados da tabela nós usamos o LOOP AT.
 
     it_e070    -> Tabela interna
     wa_e070 -> Linha da tabela
-
+```abap
     LOOP AT it_e070 INTO wa_e070.
         comportamento desejado
     ENDLOOP.
