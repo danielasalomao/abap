@@ -71,7 +71,7 @@ Em operações de divisão, o divisor não pode ser zero se o dividendo não é 
 
 
 
-##### Fontes
+##### Fontes :ledger:
 
 http://descomplicaabap.blogspot.com/2015/11/estruturas-de-condicoes-e-loops-abap.html
 
