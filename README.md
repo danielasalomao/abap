@@ -69,12 +69,18 @@ Em operações de divisão, o divisor não pode ser zero se o dividendo não é 
 
 ---
 
-##Emoji
 
-[Site](https://www.webfx.com/tools/emoji-cheat-sheet/)
 
 ##### Fontes
 
 http://descomplicaabap.blogspot.com/2015/11/estruturas-de-condicoes-e-loops-abap.html
 
 https://desenvolvimentoaberto.org/2014/02/15/looping-while-e-expressoes-aritmeticas-abap/
+
+
+
+
+
+##### Emoji do GitHub
+
+[Site](https://www.webfx.com/tools/emoji-cheat-sheet/)
