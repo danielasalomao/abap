@@ -18,23 +18,23 @@
 &-------------------------------------------------&
 
 ### DO:
-
+```abap
     DO 5 TIMES.
         comportamento desejado
     ENDDO.    
-
+```
 &-------------------------------------------------&
 
 ### WHILE:
-
+```abap
     WHILE l_int < 5.
          comportamento desejado
     ENDWHILE.
-
+```
 &-------------------------------------------------&
 
 ### LOOP:
-
+```abap
     No SAP costumamos trabalhar com tabelas em tempo de execução (Tabelas Internas) e linhas da tabela (Work Area).
     Para conseguir os dados da tabela nós usamos o LOOP AT.
 
@@ -44,7 +44,7 @@
     LOOP AT it_e070 INTO wa_e070.
         comportamento desejado
     ENDLOOP.
-
+```
 &-------------------------------------------------&
 
 
