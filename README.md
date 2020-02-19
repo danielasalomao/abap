@@ -69,6 +69,10 @@ Em operações de divisão, o divisor não pode ser zero se o dividendo não é 
 
 ---
 
+## Transações
+
+* **SE11**: ...
+
 
 
 ##### Fontes :ledger:
