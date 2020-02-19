@@ -71,7 +71,7 @@ Em operações de divisão, o divisor não pode ser zero se o dividendo não é 
 
 ##Emoji
 
-.[Site].(https://www.webfx.com/tools/emoji-cheat-sheet/)
+[Site](https://www.webfx.com/tools/emoji-cheat-sheet/)
 
 ##### Fontes
 
