@@ -2,7 +2,7 @@
 
 ## Estruturas de condições e Loops SAP
 
-### IF:
+### IF: :floppy_disk:
 
    IF time < '120000'.<br>
     comportamento desejado<br>
