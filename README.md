@@ -51,7 +51,7 @@
 
 
 
-
+---
 ## Operadores Aritméticos
 
 (+) – adição.<br>
@@ -66,6 +66,12 @@ Ao usar expressões matemáticas, os operadores +, -, *, **, e /, bem como abert
 
 Em operações de divisão, o divisor não pode ser zero se o dividendo não é zero.<br>
 
+
+---
+
+##Emoji
+
+.[Site].(https://www.webfx.com/tools/emoji-cheat-sheet/)
 
 ##### Fontes
 
