@@ -52,7 +52,19 @@
 
 
 
+## Operadores Aritméticos
 
+(+) – adição.
+(-) – subtração.
+(*) – multiplicação.
+(/) – divisão.
+DIV – divisão inteira.
+MOD – Resto da divisão inteira.
+** – Potenciação.
+
+Ao usar expressões matemáticas, os operadores +, -, *, **, e /, bem como abertura e fechamento de parênteses, são interpretados como palavras ABAP e devem ser precedidos e seguidos por espaços em branco.
+
+Em operações de divisão, o divisor não pode ser zero se o dividendo não é zero. Com a divisão inteira, você usa os operadores DIV ou MOD em vez de /. DIV calcula o quociente inteiro, MOD calcula o resto da divisão.
 
 
 ##### Fontes
