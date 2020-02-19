@@ -43,3 +43,15 @@
     ENDLOOP.
 
 &-------------------------------------------------&
+
+
+
+
+
+
+
+
+
+##### Fontes
+
+http://descomplicaabap.blogspot.com/2015/11/estruturas-de-condicoes-e-loops-abap.html
