@@ -165,6 +165,8 @@ https://goenning.net/2015/03/13/os-diferentes-tipos-de-tabela-do-sap/
 
 http://sapguru99.com/top-35-de-perguntas-e-respostas-da-entrevista-sap-abap/
 
+http://sapguru99.com/tutorial-do-dicionario-de-dados-abap-se11-tabela-objeto-de-bloqueio-visualizacao-e-estrutura/
+
 ---
 
 ##### Emoji do GitHub
