@@ -16,6 +16,20 @@ p  – packed number preciso ou número flutuante de até 16 bytes<BR>
 ![Alt Text](https://github.com/danielasalomao/abap/blob/master/data-types.jpg)
 
 ---
+
+Tipos de Tabelas
+
+Internal Table
+Transparent Table 
+Pooled Table
+Cluster Table
+
+
+
+
+
+---
+
 ## Estruturas de condições e Loops SAP
 
 #### IF: 
