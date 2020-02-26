@@ -17,12 +17,16 @@ p  – packed number preciso ou número flutuante de até 16 bytes<BR>
 
 ---
 
-Tipos de Tabelas
+## Tipos de Tabelas
 
-Internal Table
-Transparent Table 
-Pooled Table
-Cluster Table
+#### Internal Table
+* **Standard Table**: ...
+* **Sorted Table**: ...
+* **Hashed Table**: ...
+
+#### Transparent Table 
+#### Pooled Table
+#### Cluster Table
 
 
 
@@ -146,7 +150,7 @@ http://descomplicaabap.blogspot.com/2015/11/estruturas-de-condicoes-e-loops-abap
 
 https://desenvolvimentoaberto.org/2014/02/15/looping-while-e-expressoes-aritmeticas-abap/
 
-
+https://goenning.net/2015/03/13/os-diferentes-tipos-de-tabela-do-sap/
 
 ---
 
