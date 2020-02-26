@@ -121,6 +121,11 @@ SE93
 
 O código de transação **SCC1** é usado para transportar a solicitação de um cliente diferente no mesmo sistema, exemplo você deseja transportar a solicitação xxxx do cliente 100 para o cliente 150 no sistema DEV.
 
+
+
+---
+
+
 ##### Fontes :ledger:
 
 http://descomplicaabap.blogspot.com/2015/11/estruturas-de-condicoes-e-loops-abap.html
