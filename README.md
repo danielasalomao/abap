@@ -96,7 +96,11 @@ Em operações de divisão, o divisor não pode ser zero se o dividendo não é 
 
 
 
+---
 
+## Pacote
+
+* **ZEXODO**: Todos os desenvolvimentos, seja transação ou códigos que solicitarem pacotes, devem ser incluídos no pacote ZEXODO
 
 
 
