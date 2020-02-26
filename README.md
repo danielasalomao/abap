@@ -36,6 +36,14 @@ p  – packed number preciso ou número flutuante de até 16 bytes<BR>
 
 
 ---
+## Tabelas X Estruturas
+
+Dados podem ser armazenados fisicamente na Tabela, na Estrutura não pode.<br>
+Estrutura não tem chave primária, tabela pode ter. <br>
+Tabela pode ter o atributo técnico, estrutura não tem.
+
+
+---
 
 ## Estruturas de condições e Loops SAP
 
@@ -154,6 +162,8 @@ http://descomplicaabap.blogspot.com/2015/11/estruturas-de-condicoes-e-loops-abap
 https://desenvolvimentoaberto.org/2014/02/15/looping-while-e-expressoes-aritmeticas-abap/
 
 https://goenning.net/2015/03/13/os-diferentes-tipos-de-tabela-do-sap/
+
+http://sapguru99.com/top-35-de-perguntas-e-respostas-da-entrevista-sap-abap/
 
 ---
 
