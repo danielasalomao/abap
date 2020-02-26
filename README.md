@@ -85,6 +85,14 @@ Em operações de divisão, o divisor não pode ser zero se o dividendo não é 
 
 ---
 
+## Criar Transação
+
+SE93
+
+
+
+---
+
 ## Transações
 
 * **SE01**: Criar request
