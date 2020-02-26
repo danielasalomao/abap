@@ -38,9 +38,9 @@ p  – packed number preciso ou número flutuante de até 16 bytes<BR>
 ---
 ## Tabelas X Estruturas
 
-Dados podem ser armazenados fisicamente na Tabela, na Estrutura não pode.<br>
-Estrutura não tem chave primária, tabela pode ter. <br>
-Tabela pode ter o atributo técnico, estrutura não tem.
+   - Dados podem ser armazenados fisicamente na Tabela, na Estrutura não pode.<br>
+   - Estrutura não tem chave primária, tabela pode ter. <br>
+   - Tabela pode ter o atributo técnico, estrutura não tem.
 
 
 ---
