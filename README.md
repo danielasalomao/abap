@@ -25,6 +25,9 @@ p  – packed number preciso ou número flutuante de até 16 bytes<BR>
 * **Hashed Table**: ...
 
 #### Transparent Table 
+
+* **Informações**: Funcionamento é idêntico a qualquer outra tabela de um banco de dados relacional.Para cada Transparent Table definida na SE11 (Data Dictionary) uma tabela física é criada no banco de dados com exatamente o mesmo nome, os mesmos campos e os mesmos índices.
+
 #### Pooled Table
 #### Cluster Table
 
