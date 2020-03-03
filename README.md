@@ -160,6 +160,8 @@ Três formas diferentes de visualização: lista simples, lista sequencial hiera
 
 ### ALV de lista simples
 
+Estrutura dividida em duas dimensões simples: estrutura de título e outra de dados, de forma direta. 
+Os dados devem ter a mesma estrutura e listarem os registros um abaixo do outro.
 
 ### ALV Sequencial hierarquizada
 
