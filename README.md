@@ -160,10 +160,16 @@ Três formas diferentes de visualização: lista simples, lista sequencial hiera
 
 ### ALV de lista simples
 
-Estrutura dividida em duas dimensões simples: estrutura de título e outra de dados, de forma direta. 
-Os dados devem ter a mesma estrutura e listarem os registros um abaixo do outro.
+ - Estrutura dividida em duas dimensões simples: estrutura de título e outra de dados, de forma direta. 
+ - Os dados devem ter a mesma estrutura e listarem os registros um abaixo do outro.
+ - 90% dos relatórios.
+ - Estrutura formada por colunas.
+ - Principal função para criar: REUSE_ALV_LIST_DISPLAY
 
 ### ALV Sequencial hierarquizada
+
+ - Estrutura em formato de árvore.
+ - Mostra os tipos de dados em níveis de hierarquia.
 
 
 ### ALV Tree
