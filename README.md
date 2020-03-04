@@ -186,6 +186,12 @@ Três formas diferentes de visualização: lista simples, lista sequencial hiera
  - Principal função para criar: RS_TREE_LIST_DISPLAY
  
 
+### Outras formas de apresentação de um ALV:
+
+#### ALV Grid Control
+   - Exige a criação de uma tela no report ou module-pool
+   - Definição de uma área de container para apresentação do resultado
+   - Classes principais: CL_GUI_ALV_GRID ou CL_SALV_TABLE
 
 
 
