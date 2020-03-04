@@ -190,6 +190,18 @@ Três formas diferentes de visualização: lista simples, lista sequencial hiera
 
 
 
+## Programas que SAP disponibiliza como exemplo para ajudar desenvolvedores ABAP:
+   - BCALV_TEST_FULLSCREEN
+   - BCALV_TEST_FULLSCREEN
+   - BCALV_TEST_FULLSCREEN_EDIT
+   - BCALV_TEST_FULLSCREEN_EVENTS
+   - BCALV_TEST_FULLSCREEN_FILTER
+   - BCALV_TEST_FULLSCREEN_FQUAN
+   - BCALV_TEST_FULLSCREEN_HTML
+   - BCALV_TEST_FULLSCREEN_PRINT
+   - BCALV_TEST_FULLSCREEN_STATUS
+
+
 ---
 
 ##### Fontes :ledger:
