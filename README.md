@@ -165,7 +165,8 @@ Três formas diferentes de visualização: lista simples, lista sequencial hiera
  - 90% dos relatórios.
  - Estrutura formada por colunas.
  - Principal função para criar: REUSE_ALV_LIST_DISPLAY
- - Outras funções que podem ser utilizadas na criação de um ALV simples:
+ - Outras funções que podem ser utilizadas na criação de um ALV simples
+ 
       Reuse_alv_fieldcatalog_merge (Função para montar o Field Catalog essencial para configurar os dados da saída);<br>
       Reuse_alv_list_display (Função de apresentação dos dados);<br>
       Reuse_alv_events_get (Função para criar eventos na lista de saída);<br>
