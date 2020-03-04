@@ -165,11 +165,11 @@ Três formas diferentes de visualização: lista simples, lista sequencial hiera
  - 90% dos relatórios.
  - Estrutura formada por colunas.
  - Principal função para criar: REUSE_ALV_LIST_DISPLAY
- Reuse_alv_fieldcatalog_merge (Função para montar o Field Catalog essencial para configurar os dados da saída);
-Reuse_alv_list_display (Função de apresentação dos dados);
-Reuse_alv_events_get (Função para criar eventos na lista de saída);
-Reuse_alv_grid_display (Apresenta o resultado num grid full screen);
-Reuse_alv_commentary_write (Criar um cabeçalho com informações desejadas);
+ Reuse_alv_fieldcatalog_merge (Função para montar o Field Catalog essencial para configurar os dados da saída);<br>
+Reuse_alv_list_display (Função de apresentação dos dados);<br>
+Reuse_alv_events_get (Função para criar eventos na lista de saída);<br>
+Reuse_alv_grid_display (Apresenta o resultado num grid full screen);<br>
+Reuse_alv_commentary_write (Criar um cabeçalho com informações desejadas);<br>
 
 ### ALV Sequencial hierarquizada
 
