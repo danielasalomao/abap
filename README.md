@@ -177,11 +177,14 @@ Três formas diferentes de visualização: lista simples, lista sequencial hiera
 
  - Estrutura em formato de árvore.
  - Mostra os tipos de dados em níveis de hierarquia.
+ - Principal função para criar: REUSE_ALV_HIERSEQ_LIST_DISPLAY
+ - Outr função muito utilizada: REUSE_ALV_FIELDCATALOG_MERGE
 
 
 ### ALV Tree
 
-
+ - Principal função para criar: RS_TREE_LIST_DISPLAY
+ 
 
 
 
