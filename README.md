@@ -194,13 +194,16 @@ Três formas diferentes de visualização: lista simples, lista sequencial hiera
    - Classes principais: CL_GUI_ALV_GRID ou CL_SALV_TABLE
 
 #### ALV Hierarchical sequential control
-
+   - Exige a criação de uma tela no report
+   - Classe: CL_SALV_HIERSEQ_TABLE ou Função: REUSE_ALV_HIERSEQ_LIST_DISPLAY
 
 #### ALV Grid Full Screen
-
+   - Principal função para criar: REUSE_ALV_GRID_DISPLAY
+   - Semelhante a lista simples
 
 #### ALV Tree Controle
-
+   - Orientado a Objeto
+   - Classes principais: CL_GUI_ALV_TREE e CL_SALV_TREE
 
 #### ALV WebDynpro
 
